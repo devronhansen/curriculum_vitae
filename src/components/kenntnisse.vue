@@ -53,24 +53,15 @@
                         ]
                     },
                     {
-                        name: "MS Windows Server",
-                        skills: [
-                            "DNS",
-                            "DHCP",
-                            "IIS",
-                            "Domain Controller"
-                        ]
-                    }
-
-                ],
-                kenntnisse2: [
-                    {
                         name: "Scripting",
                         skills: [
                             "Python 3.x",
                             "Shell"
                         ]
-                    },
+                    }
+
+                ],
+                kenntnisse2: [
                     {
                         name: "Programmiersprachen",
                         skills: [
@@ -85,6 +76,15 @@
                         skills: [
                             "MySQL",
                             "MariaDB"
+                        ]
+                    },
+                    {
+                        name: "MS Windows Server",
+                        skills: [
+                            "DNS",
+                            "DHCP",
+                            "IIS",
+                            "Domain-Controller"
                         ]
                     },
                     {
