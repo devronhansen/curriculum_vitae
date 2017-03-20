@@ -41,18 +41,22 @@
                         ]
                     },
                     {
-                        name: "Ubuntu Server 16.04 LTS",
+                        name: "Ubuntu Server",
                         skills: [
-                            "Nginx, Apache",
+                            "Nginx",
+                            "Apache",
                             "UFW-Firewall",
                             "Let's Encrypt SSL",
-                            "FTP, SFTP, SSH"
+                            "FTP",
+                            "SFTP",
+                            "SSH"
                         ]
                     },
                     {
-                        name: "Microsoft Windows Server 2012, 2016",
+                        name: "MS Windows Server",
                         skills: [
-                            "DNS, DHCP",
+                            "DNS",
+                            "DHCP",
                             "IIS",
                             "Domain Controller"
                         ]
@@ -61,11 +65,19 @@
                 ],
                 kenntnisse2: [
                     {
-                        name: "Script- und Programmiersprachen",
+                        name: "Scripting",
                         skills: [
                             "Python 3.x",
-                            "PHP, HTML, CSS",
-                            "C#"
+                            "Shell"
+                        ]
+                    },
+                    {
+                        name: "Programmiersprachen",
+                        skills: [
+                        "PHP",
+                        "C#",
+                        "HTML",
+                        "CSS"
                         ]
                     },
                     {
@@ -76,7 +88,7 @@
                         ]
                     },
                     {
-                        name: "Microsoft Windows 7, 10",
+                        name: "Microsoft Windows",
                         skills: [
                             "RDP",
                             "Administrierung von Clientsystemen"
