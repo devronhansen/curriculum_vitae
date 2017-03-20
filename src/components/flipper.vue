@@ -1,5 +1,5 @@
 <template>
-    <div class="flipper column is-half is-offset-one-quarter" v-bind:class="{'flip': flip}" id="kontakt" >
+    <div class="flipper column is-half is-offset-3" v-bind:class="{'flip': flip}" id="kontakt" >
         <figure class="front" v-on:click="letsFlip">
             <div class="card hero is-primary test">
                 <div class="container">
