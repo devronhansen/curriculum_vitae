@@ -28,7 +28,6 @@
                         </p>
                     </div>
                 </div>
-                <div class="g-recaptcha" data-sitekey="6LesexkUAAAAAKx3oQbqaJYTQFVOXh3X-nCuEGu9"></div>
             </form>
         </div>
     </div>
