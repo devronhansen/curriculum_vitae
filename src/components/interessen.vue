@@ -18,7 +18,6 @@
                     "Filme/Serien",
                     "Lesen",
                     "Musik",
-                    "Mixed Martials Arts",
                     "Videospiele/E-Sport"
                 ]
             }

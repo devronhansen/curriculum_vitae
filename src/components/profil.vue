@@ -4,7 +4,7 @@
         <hr>
         <div class="notification is-primary">
             <p class="has-text-centered title is-4">
-                Auf der Suche nach weiteren Praktikas während meiner Ausbildungszeit im Bereich der Softwareentwicklung im Großraum Hamburg</p>
+                Auf der Suche nach weiteren Praktikas während meiner Ausbildungszeit im Bereich der Systemadministrierung im Großraum Hamburg</p>
         </div>
         <div class="tags">
             <span class="tag is-primary is-medium" v-for="tag in tags"><i class="fa fa-check" aria-hidden="true"></i>&nbsp;{{tag}}</span>

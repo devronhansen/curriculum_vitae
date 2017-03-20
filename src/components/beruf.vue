@@ -19,7 +19,7 @@
                     [
                         "2015-2018",
                         "Theodor-Schäfer Berufsbildungswerk",
-                        "usbildung Fachinformatiker für Systemintegration"
+                        "Ausbildung Fachinformatiker für Systemintegration"
                     ],
                     [
                         "2010",
