@@ -50,6 +50,20 @@
 
 
 <style scoped lang="scss">
+    @media screen and(max-width: 1660px) {
+        .data {
+            padding-left: 10px;
+        }
+    }
+
+    @media screen and(max-width: 1450px) {
+        .imageholder{
+            display: flex;
+            width: 100%;
+            justify-content: center;
+        }
+    }
+
     .box {
         box-shadow: 10px 10px 20px 0 rgba(46, 61, 73, 0.15);
         border-radius: 0.375rem;
@@ -66,10 +80,9 @@
         box-shadow: 3px 3px 3px 0 rgba(46, 61, 73, 0.15);
     }
 
-    @media screen and(max-width: 768px) {
+    @media screen and(max-width: 1056px) {
         .data {
             text-align: right;
-            padding-left: 10px;
         }
         .imageholder{
             display: flex;
@@ -78,7 +91,7 @@
         }
     }
 
-    @media screen and(min-width: 1000px) {
+    @media screen and(min-width: 1057px) {
         .image {
             float: right;
         }

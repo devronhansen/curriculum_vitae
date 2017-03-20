@@ -115,6 +115,22 @@
 
 
 <style scoped lang="scss">
+    .kenntnisholderright{
+        margin-left: 3px;
+    }
+
+    .kenntnisholderleft{
+        margin-right: 3px;
+    }
+
+
+    @media screen and(max-width: 1660px) {
+        .kenntnisholder{
+            display: flex;
+            justify-content: flex-start;
+        }
+    }
+
     .primary {
         color: #00D1B2
     }
@@ -128,7 +144,7 @@
         }
     }
 
-    @media screen and(max-width: 768px) {
+    @media screen and(max-width: 1056px) {
         .kenntnisholder {
             display: flex;
             width: 100%;
@@ -140,7 +156,7 @@
         }
     }
 
-    @media screen and(min-width: 1000px) {
+    @media screen and(min-width: 1057px) {
         .kenntnisholderright {
             float: right;
         }

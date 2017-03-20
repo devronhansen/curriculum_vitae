@@ -19,6 +19,7 @@
                         <textarea class="textarea" rows="10" placeholder="Ihr Email Text" required=""
                                   v-model="email.message"></textarea>
                     </p>
+                    <div class="g-recaptcha" data-sitekey="6LesexkUAAAAAKx3oQbqaJYTQFVOXh3X-nCuEGu9"></div>
                     <div class="control is-grouped">
                         <p class="control">
                             <input class="button is-primary" type="submit" value="Submit">
@@ -148,7 +149,7 @@
         }
     }
 
-    @media screen and (min-width: 1000px) {
+    @media screen and (min-width: 1057px) {
         .container {
             max-width: none;
         }
@@ -162,7 +163,7 @@
         margin-top: 10px;
     }
 
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 1056px) {
         .add-product {
             -webkit-transform: translate3d(0, 0, 0);
             -moz-transform: translate3d(0, 0, 0);

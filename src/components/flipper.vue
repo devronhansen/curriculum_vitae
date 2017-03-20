@@ -1,5 +1,5 @@
 <template>
-    <div class="flipper column is-half" v-bind:class="{'flip': flip}" id="kontakt" >
+    <div class="flipper column is-half" v-bind:class="{'flip': flip}" id="kontakt">
         <figure class="front" v-on:click="letsFlip">
             <div class="card hero is-primary test">
                 <div class="container">
@@ -11,7 +11,7 @@
         </figure>
         <figure class="back">
             <div class="card">
-                    <kontaktform :letsFlip="letsFlip"></kontaktform>
+                <kontaktform :letsFlip="letsFlip"></kontaktform>
             </div>
         </figure>
     </div>
@@ -52,14 +52,20 @@
         height: 500px;
     }
 
-    @media screen and (min-width: 1000px) {
+    .flipper,
+    .card {
+        margin: 100px 0 200px 0;
+        height: 500px;
+    }
+
+    .flipper {
+        margin-left: 25%;
+    }
+
+    @media screen and (max-width: 769px){
         .flipper,
         .card {
-            margin: 100px 0 200px 0;
-            height: 500px;
-        }
-        .flipper{
-            margin-left: 25%;
+            margin: 0;
         }
     }
 

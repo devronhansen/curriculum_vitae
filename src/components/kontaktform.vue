@@ -102,7 +102,7 @@
         margin-top: 20px;
     }
 
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 1056px) {
         .contact {
             -webkit-transform: translate3d(0, 0, 0);
             -moz-transform: translate3d(0, 0, 0);
