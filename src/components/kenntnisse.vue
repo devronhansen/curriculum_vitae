@@ -33,78 +33,56 @@
             return {
                 kenntnisse1: [
                     {
-                        name: "PHP",
+                        name: "Netzwerk",
                         skills: [
-                            "Laravel",
-                            "Symfony Components"
+                            "IPv4",
+                            "OSI-Modell",
+                            "Cisco-Router"
                         ]
                     },
                     {
-                        name: "Javascript",
+                        name: "Ubuntu Server 16.04 LTS",
                         skills: [
-                            "React",
-                            "jQuery",
-                            "Ajax",
-                            "Vue"
+                            "Nginx, Apache",
+                            "UFW-Firewall",
+                            "Let's Encrypt SSL",
+                            "FTP, SFTP, SSH"
                         ]
                     },
                     {
-                        name: "HTML, CSS",
+                        name: "Microsoft Windows Server 2012, 2016",
                         skills: [
-                            "Bootstrap",
-                            "Bulma",
-                            "SASS"
-                        ]
-                    },
-                    {
-                        name: "Versionierung",
-                        skills: [
-                            "Git"
-                        ]
-                    },
-                    {
-                        name: "Queue-System",
-                        skills: [
-                            "Beanstalkd"
+                            "DNS, DHCP",
+                            "IIS",
+                            "Domain Controller"
                         ]
                     }
+
                 ],
                 kenntnisse2: [
                     {
-                        name: "Virtuelle Umgebung",
+                        name: "Script- und Programmiersprachen",
                         skills: [
-                            "Vagrant",
-                            "Docker"
+                            "Python 3.x",
+                            "PHP, HTML, CSS",
+                            "C#"
                         ]
                     },
                     {
-                        name: "Datenbanksystem",
+                        name: "Datenbanktechniken",
                         skills: [
-                            "SQL, MySQL, SQLite",
-                            "Redis"
+                            "MySQL",
+                            "MariaDB"
                         ]
                     },
                     {
-                        name: "Webserver-Konfirugation",
+                        name: "Microsoft Windows 7, 10",
                         skills: [
-                            "nginx"
-                        ]
-                    },
-                    {
-                        name: "Testing",
-                        skills: [
-                            "PHPUnit",
-                            "Mockery"
-                        ]
-                    },
-                    {
-                        name: "C#",
-                        skills: [
-                            "Windows Forms",
-                            "Windows Presentation Foundation",
-                            "Xamarin Android"
-                        ]
-                    },
+                            "RDP",
+                            "Administrierung von Clientsystemen"
+                            ]
+                    }
+
                 ]
 
             }

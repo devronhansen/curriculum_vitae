@@ -24,10 +24,9 @@
                     "Autodidakt",
                     "Analytisch",
                     "Diszipliniert",
-                    "Geduldig",
                     "Kreativ",
                     "Sorgfältig",
-                    "Traumberuf Softwareentwickler"
+                    "Traumberuf Linuxadministrator"
                 ]
             }
 

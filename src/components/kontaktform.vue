@@ -27,7 +27,7 @@
                     </p>
                 </div>
                 <div class="field">
-                    <div class="g-recaptcha" data-sitekey="6LesexkUAAAAAKx3oQbqaJYTQFVOXh3X-nCuEGu9"></div>
+                    <div class="g-recaptcha" data-sitekey="6LepqRkUAAAAAO9-4jjfFgfm42DgUyjpGX03nN9E"></div>
                 </div>
                 <div class="control is-grouped">
                     <p class="control">
@@ -67,7 +67,7 @@
                             showLoaderOnConfirm: true,
                         },
                         function () {
-                            emailjs.send("gmail", "Template1", {
+                            emailjs.send("gmail", "template_1", {
                                 message: this.email.message,
                                 addresse: this.email.addresse,
                                 betreff: this.email.betreff

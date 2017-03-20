@@ -4,7 +4,7 @@
         <hr>
         <div class="imageholder">
             <figure class="image is-128x128">
-                <img class="image" src="../assets/Ron_Hansen.png">
+                <img class="image" src="../assets/Lars_Linden.png">
             </figure>
         </div>
         <div class="column is-9">
@@ -38,11 +38,11 @@
     export default {
         data () {
             return {
-                name: 'Ron-Hendrik Hansen',
-                anschrift: 'Herrmann-Tast-Straße 28, 25813 Husum',
-                tel: '0172/98 25 421',
-                email: 'devronhansen@gmail.com',
-                geb: '11.11.1992'
+                name: 'Lars Linden',
+                anschrift: 'Herrmann-Tast-Straße 26, 25813 Husum',
+                tel: '0176 / 24 47 03 81',
+                email: 'lars.linden@outlook.de',
+                geb: '08.01.1989'
             }
         }
     }

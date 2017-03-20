@@ -6,14 +6,14 @@
                     Made by <strong>Ron Hansen</strong>.
                 </p>
                 <p>
-                    <a class="icon" href="https://twitter.com/devronhansen">
+                    <a class="icon" href="https://twitter.com/LarsLinden89">
                         <i class="fa fa-twitter" aria-hidden="true"></i>
                     </a>
-                    <a class="icon" href="mailto:devronhansen@gmail.com">
+                    <a class="icon" href="mailto:lars.linden@outlook.de">
                         <i class="fa fa-envelope" aria-hidden="true"></i>
                     </a>
-                    <a class="icon" href="https://github.com/devronhansen">
-                        <i class="fa fa-github" aria-hidden="true"></i>
+                    <a class="icon" href="https://www.xing.com/profile/Lars_Linden11?sc_o=mxb_p">
+                        <i class="fa fa-xing" aria-hidden="true"></i>
                     </a>
                 </p>
             </div>

@@ -14,9 +14,9 @@
             return {
                 interessen: [
                     "Unternehmungen, z.b. Kino, Konzerte, Reisen",
-                    "Programmieren,	z.B. Entwickeln	von Nebenprojekten	und	Ausprobieren neuer Tools und Sprachen, PairProgramming mit Freunden",
+                    "Linux-Serveradministration, z.B. Konfigurieren von Webservern für Nebenprojekte und ausprobieren neuer Techniken auf eigenen Servern",
                     "Filme/Serien",
-                    "Lesen z.b. Clean Code von Robert C. Martin",
+                    "Lesen",
                     "Musik",
                     "Mixed Martials Arts",
                     "Videospiele/E-Sport"

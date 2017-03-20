@@ -17,19 +17,19 @@
             return {
                 stationen: [
                     [
-                        "03.04.2017-30.06.2017",
-                        "Elbgoods Internetagentur",
-                        "Praktikum während der Ausbildungszeit im Bereich Webentwicklung"
-                    ],
-                    [
                         "2015-2018",
                         "Theodor-Schäfer Berufsbildungswerk",
-                        "Ausbildung Fachinformatiker für Anwendungsentwicklung"
+                        "usbildung Fachinformatiker für Systemintegration"
                     ],
                     [
-                        "2003-2012",
-                        "Goethe-Schule, Gymnasium der Stadt Flensburg",
-                        "Mittlerer Schulabschluss"
+                        "2010",
+                        "Pädagogium Bad Schwartau",
+                        "Mittlere Reife (Externe Prüfung)"
+                    ],
+                    [
+                        "2005",
+                        "Grund- und Hauptschule Lensahn",
+                        "Hauptschulabschluss"
                     ],
                 ]
             }

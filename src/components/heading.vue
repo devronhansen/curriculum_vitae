@@ -4,7 +4,7 @@
             <div class="hero-body">
                 <div class="container">
                     <h1 class="title">
-                        <strong>Ron Hansen</strong> - Softwareentwickler<img class="img" src="../assets/code.svg">
+                        <strong>Lars Linden</strong> - Systemadministrator<img class="img" src="../assets/code.svg">
                     </h1>
                 </div>
             </div>
