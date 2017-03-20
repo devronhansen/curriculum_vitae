@@ -13,10 +13,10 @@
         data () {
             return {
                 interessen: [
-                    "Unternehmungen, z.b. Kino, Konzerte, Reisen",
+                    "Unternehmungen, z.B. Kino, Konzerte, Reisen",
                     "Programmieren,	z.B. Entwickeln	von Nebenprojekten	und	Ausprobieren neuer Tools und Sprachen, PairProgramming mit Freunden",
                     "Filme/Serien",
-                    "Lesen z.b. Clean Code von Robert C. Martin",
+                    "Lesen z.B. Clean Code von Robert C. Martin",
                     "Musik",
                     "Mixed Martials Arts",
                     "Videospiele/E-Sport"
@@ -26,7 +26,6 @@
         }
     }
 </script>
-
 
 <style scoped lang="sass">
     ul

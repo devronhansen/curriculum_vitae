@@ -45,7 +45,7 @@
                             "React",
                             "jQuery",
                             "Ajax",
-                            "Vue"
+                            "Vue.js"
                         ]
                     },
                     {
@@ -53,7 +53,7 @@
                         skills: [
                             "Bootstrap",
                             "Bulma",
-                            "SASS"
+                            "Sass"
                         ]
                     },
                     {
@@ -65,7 +65,7 @@
                     {
                         name: "Queue-System",
                         skills: [
-                            "Beanstalkd"
+                            "beanstalkd"
                         ]
                     }
                 ],

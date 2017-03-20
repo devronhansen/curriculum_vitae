@@ -17,17 +17,17 @@
             return {
                 stationen: [
                     [
-                        "03.04.2017-30.06.2017",
+                        "03.04.2017 - 30.06.2017",
                         "Elbgoods Internetagentur",
                         "Praktikum während der Ausbildungszeit im Bereich Webentwicklung"
                     ],
                     [
-                        "2015-2018",
+                        "08.2015 - 06.2018",
                         "Theodor-Schäfer Berufsbildungswerk",
                         "Ausbildung Fachinformatiker für Anwendungsentwicklung"
                     ],
                     [
-                        "2003-2012",
+                        "2003 - 2012",
                         "Goethe-Schule, Gymnasium der Stadt Flensburg",
                         "Mittlerer Schulabschluss"
                     ],
