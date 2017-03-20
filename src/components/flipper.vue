@@ -55,8 +55,11 @@
     @media screen and (min-width: 1000px) {
         .flipper,
         .card {
-            margin: 100px 0 200px 15%;
+            margin: 100px 0 200px 0;
             height: 500px;
+        }
+        .flipper{
+            margin-left: 25%;
         }
     }
 
