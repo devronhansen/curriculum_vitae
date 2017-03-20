@@ -3,7 +3,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    Made by <strong>Ron Hansen</strong>.
+                    Hosted by <strong>Lars Linden</strong>.
                 </p>
                 <p>
                     <a class="icon" href="https://twitter.com/LarsLinden89">

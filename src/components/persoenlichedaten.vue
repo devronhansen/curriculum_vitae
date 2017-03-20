@@ -57,9 +57,9 @@
     }
 
     .image{
-        width: 130px;
+        width: 115px;
         height: 140px;
-        margin-top: -5px;
+        margin-top: -3px;
     }
 
     .box:hover {
