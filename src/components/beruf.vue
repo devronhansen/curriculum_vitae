@@ -18,7 +18,7 @@
                 stationen: [
                     [
                         "08.2015 - 06.2018",
-                        "Theodor-Schäfer Berufsbildungswerk",
+                        "Theodor-Schäfer-Berufsbildungswerk",
                         "Ausbildung Fachinformatiker für Systemintegration"
                     ],
                     [
