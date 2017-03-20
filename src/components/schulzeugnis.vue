@@ -2,7 +2,7 @@
     <div class="notification is-primary">
         <div class="column is-offset-4">
             <a class="button is-primary is-inverted is-outlined"
-               href="#"><i
+               href="../assets/file.pdf"><i
                     class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;Letztes Schulzeugnis herunterladen</a>
         </div>
     </div>

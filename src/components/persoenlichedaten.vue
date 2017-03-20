@@ -4,7 +4,7 @@
         <hr>
         <div class="imageholder">
             <figure class="image is-128x128">
-                <img src="http://bulma.io/images/placeholders/128x128.png">
+                <img class="image" src="../assets/Ron_Hansen.png">
             </figure>
         </div>
         <div class="column is-9">
@@ -54,6 +54,12 @@
         box-shadow: 10px 10px 20px 0 rgba(46, 61, 73, 0.15);
         border-radius: 0.375rem;
         transition: all 0.3s ease;
+    }
+
+    .image{
+        width: 130px;
+        height: 140px;
+        margin-top: -5px;
     }
 
     .box:hover {
